@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SamuelPouyade
+- 👀 I’m interested in new technology
+- 🌱 I’m currently learning Java, python
+- 💞️ I’m looking to collaborate on engineering schools
+- 📫 How to reach me: samuel.pouyade@outlook.fr or samuel.pouyade@etu.unilim.fr
