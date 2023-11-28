@@ -20,7 +20,10 @@ Par ailleurs, je possède des compétences linguistiques en Espagnol ainsi qu’
 
 # Mon parcours professionnel
 
-Au vu de mon profil 
+Mon parcours professionnel se divise en plusieurs étapes. Tout d'abord, il faut savoir qu'avant d'effectuer différents travaux dans le monde de l'informatique, j'ai eu l'opportunité de découvrir le monde du travail en travaillant deux mois dans le domaine agricole. Ces deux mois m'ont permis d'observer ce qu'étais le monde du travail ainsi que d'observer qu'est-ce qu'étais le véritable travail d'équipe.
+Par la suite grâce à mon parcours universitaire ainsi que mon bagage technique j'ai eu l'opportunité d'effectuer mon stage de deuxième année au sein du Groupe Legrand avant d'y effectuer un "job d'été" puis une alternance pour ma troisième et dernière année de BUT informatique.
+
+A la suite de ce BUT informatique je souhaite réaliser un master qui me permettrait de perfectionner mes connaissances en développement informatique et qui me permettrait d'approfondir mes connaissances dans la gestion d'équipe. 
 
 # Mes compétences
 
@@ -88,8 +91,9 @@ Le projet le plus important que j'ai pu mener fût un projet en partenariat avec
 Il faut savoir lors de la réalisation de mon BUT informatique, j'ai pu réaliser différents projets comme vous avez pu lire. Ces projets qui fût menés dans le cadre du BUT étaient accompagnés de fiche attestant de notre niveau de compétences. Ils nous ont aussi permis de nous situer sur notre niveau, mais aussi de savoir les éventuels points à améliorer. Vous les retrouverez triés par années sur le lien suivant : https://github.com/SamuelPouyade/Portfolio/tree/main/Fiches_SAE_BUT
 
 # Me contacter
-Si vous souhaitez me joindre vous pouvez me contacter par sms ou par appel au numéro suivant : 06 81 99 38 69.  Mais aussi à l’adresse électronique suivante : samuel.pouyade@outlook.fr  
-Je possède aussi un compte LinkedIn sur lequel vous pouvez me joindre. Mon nom d’utilisateur est donc Samuel Pouyade. Vous pouvez trouver mon LinkedIn sinon à l’URL suivante : 
-www.linkedin.com/in/samuel-pouyade-011496229
-Celui-ci me permet aussi de me renseigner sur des personnes ainsi que sur des entreprises.
+
+📧 samuel.pouyade@outlook.fr
+https://www.linkedin.com/in/samuel-pouyade-011496229/
+📞 06-81-99-38-69
+
 
