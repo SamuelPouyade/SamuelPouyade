@@ -78,24 +78,9 @@ Il faut savoir que j'ai eu l'opportunité de réaliser un stage au sein du Group
 
 ## Troisième année
 
-### SAE 5
-Projet avec legrand, 
+Au cours de ma troisième année, mes projets fût très professionnalisant au vu du fait qu'à partir de la troisième année de BUT informatique nous pouvons concrétement prétendre à poste dans le monde de l'informatique. 
 
-### ALTERNANCE
-
-Toujours au sein de legrand/
-
-
-
-J'ai aussi eu l’occasion de créer un site web communautaire à l’aide du framework Symfony. 
-
-J'ai pu aussi créer un projet dont l'objectif était de me servir de l'API que propose Spotify afin de réaliser une application sur le thème de ce distributeur de musique. Je me suis donc servi de l'API et du langage de programmation Xamarin. Ce projet m'a alors permis de faire mes premiers sur le développement d'applications mobiles.
-
-Lors de ma seconde année de BUT informatique en fin d'année j'ai eu l'opportunité de réaliser un stage au sein de l'entreprise Legrand. Ce stage a duré une dizaine de semaine. Au cours de ce dernier j'ai pu prendre part à un projet d'envergure qui était le développement d'un logiciel interne à l'entreprise. Pour le développement du logiciel j'ai intégré une équipe de neuf personnes
-
-Deux autres projets avec symfony et Laravel.
-
-
+Le projet le plus important que j'ai pu mener fût un projet en partenariat avec l'entreprise Legrand lieu ou j'ai eu l'opportunité de réaliser mon stage de deuxième année ainsi que mon alternance. Ce projet était un projet qui utilisait les technologies pm2, node, javascript, ssms, ainsi que le framework Jest. Ce projet fût mené en équipe, équipe dont j'étais le chef attitré. Il m'a donc permis d'approfondir mes connaissances dans les différentes technologies utilisées mais aussi de mettre en avant mes compétences en gestion de projet et d'équipes. 
 
 
 # Fiches saes
