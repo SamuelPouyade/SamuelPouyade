@@ -28,11 +28,43 @@ A la suite de ce BUT informatique je souhaite réaliser un master qui me permett
 # Mes compétences
 
 En tant qu'étudiant en troisième année de BUT informatique, mes compétences en développement s'oriente notamment vers le développement back end. Je suis tout à fait en capacité d'utiliser différents frameworks tel que Symfony ou Lavarel. Je suis aussi capable de développer différentes sortes d'application à l'aide de langage de programmation qui sont :
-- Javascript
+# Mon Projet
+
+## Langages de Programmation
+
+- JavaScript
+  ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+
 - Java
+  ![Java Logo](https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg)
+
 - Python
+  ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 - PHP
-- ...
+  ![PHP Logo](https://www.php.net/images/logos/php-logo.svg)
+
+## Frameworks
+
+- Symfony
+  ![Symfony Logo](https://symfony.com/images/v5/logos/header-logo.svg)
+
+- Laravel
+  ![Laravel Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)
+
+## Bases de Données
+
+- MySQL
+  ![MySQL Logo](https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg)
+
+- PostgreSQL
+  ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+
+- Cassandra
+  ![Cassandra Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg)
+
+- MongoDB
+  ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg)
 
 De plus, je suis tout à fait apte à me servir de base de données tel que :
 - MySQL
