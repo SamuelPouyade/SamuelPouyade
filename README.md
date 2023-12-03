@@ -29,18 +29,18 @@ A la suite de ce BUT informatique je souhaite réaliser un master qui me permett
 
 En tant qu'étudiant en troisième année de BUT informatique, mes compétences en développement s'oriente notamment vers le développement back end. Je suis tout à fait en capacité d'utiliser différents frameworks tel que Symfony ou Lavarel. Je suis aussi capable de développer différentes sortes d'application à l'aide de langage de programmation qui sont :
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
+- ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) 
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ...
 
 De plus, je suis tout à fait apte à me servir de base de données tel que :
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 Mes compétences s'étendent bien au-delà du développement d'application. Je suis tout a fait en capacité de pouvoir travailler dans une équipe informatique, tout en donnant des directions à suivre. Mais aussi de pouvoir communiquer de façon claires avec mes collègues de sorte à réussir le projet qui nous est donné. Mon adaptabilité aux différents projets que l'on a pu mener est l'une de mes compétences la plus importante.
 
