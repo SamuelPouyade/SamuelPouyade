@@ -40,7 +40,11 @@ En tant qu'étudiant en troisième année de BUT informatique, mes compétences 
 ...
 
 De plus, je suis tout à fait apte à me servir de base de données tel que :
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white),
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white),
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white),
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white),
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 Mes compétences s'étendent bien au-delà du développement d'application. Je suis tout a fait en capacité de pouvoir travailler dans une équipe informatique, tout en donnant des directions à suivre. Mais aussi de pouvoir communiquer de façon claires avec mes collègues de sorte à réussir le projet qui nous est donné. Mon adaptabilité aux différents projets que l'on a pu mener est l'une de mes compétences la plus importante.
 
@@ -94,8 +98,8 @@ Il faut savoir lors de la réalisation de mon BUT informatique, j'ai pu réalise
 
 # Me contacter
 
-📧 samuel.pouyade@outlook.fr
-https://www.linkedin.com/in/samuel-pouyade-011496229/
-📞 06-81-99-38-69
+- 📧 samuel.pouyade@outlook.fr
+-  **LinkedIN** https://www.linkedin.com/in/samuel-pouyade-011496229/
+- 📞 06-81-99-38-69
 
 
