@@ -3,7 +3,7 @@
 1. [À propos de moi](#a-propos-de-moi)
 2. [Mon parcours professionnel](#mon-parcours-professionnel-📖)
 3. [Mes compétences](#mes-compétences)
-4. [Les projets auxquels j’ai pris part](#les-projets-auxquels-jai-pris-part-💻)
+4. [Les projets auxquels j’ai pris part](#les-projets-auxquels-j'ai-pris-part-💻)
 6. [Fiches SAE](#fiches-saes)
 7. [Me contacter](#me-contacter)
 
