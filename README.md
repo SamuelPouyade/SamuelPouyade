@@ -1,7 +1,7 @@
 # Tables des matières
 
 1. [À propos de moi](#a-propos-de-moi)
-2. [Mon parcours professionnel](#Mon-parcours-professionnel-📖)
+2. [Mon parcours professionnel](#mon-parcours-professionnel-)
 3. [Mes compétences](#mes-compétences)
 4. [Les projets auxquels j’ai pris part](#les-projets-auxquels-j'ai-pris-part-💻)
 6. [Fiches SAE](#fiches-SAE)
