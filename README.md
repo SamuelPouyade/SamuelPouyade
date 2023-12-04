@@ -1,10 +1,10 @@
 # Tables des matières
 
 1. [À propos de moi](#a-propos-de-moi)
-2. [Mon parcours professionnel](#mon-parcours-professionnel-📖)
+2. [Mon parcours professionnel](#Mon-parcours-professionnel-📖)
 3. [Mes compétences](#mes-compétences)
 4. [Les projets auxquels j’ai pris part](#les-projets-auxquels-j'ai-pris-part-💻)
-6. [Fiches SAE](#fiches-saes)
+6. [Fiches SAE](#fiches-SAE)
 7. [Me contacter](#me-contacter)
 
 
@@ -92,7 +92,7 @@ Au cours de ma troisième année, mes projets fûrent très professionnalisant  
 Le projet le plus important que j'ai pu mener fût un projet en partenariat avec l'entreprise Legrand lieu ou j'ai eu l'opportunité de réaliser mon stage de deuxième année ainsi que mon alternance. Ce projet était un projet qui utilisait les technologies pm2, node, javascript, ssms, ainsi que le framework Jest. Ce projet fût mené en équipe, équipe dont j'étais le chef attitré. Il m'a donc permis d'approfondir mes connaissances dans les différentes technologies utilisées mais aussi de mettre en avant mes compétences en gestion de projet et d'équipes. 
 
 
-# Fiches saes
+# Fiches SAE
 
 Il faut savoir que lors de la réalisation de mon BUT informatique, j'ai pu réaliser différents projets comme vous avez pu lire. Ces projets qui fûrent menés dans le cadre du BUT étaient accompagnés de fiches attestant de notre niveau de compétences. Ils nous ont aussi permis de nous situer sur notre niveau, mais aussi de savoir les éventuels points à améliorer. Vous les retrouverez triés par années sur le lien suivant : https://github.com/SamuelPouyade/Portfolio/tree/main/Fiches_SAE_BUT
 
