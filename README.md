@@ -18,7 +18,7 @@ Je suis aussi capable de développer différentes application via une multitude 
 Ces compétences ont été mises à l'épreuve dans le cadre de projets de groupe au cours desquels j'ai perfectionné ma collaboration au sein d'équipes dynamiques. 
 Par ailleurs, je possède des compétences linguistiques en Espagnol ainsi qu’en Anglais. 
 
-# Mon parcours professionnel 📖
+📖 # Mon parcours professionnel 
 
 Mon parcours professionnel se divise en plusieurs étapes. Tout d'abord, il faut savoir qu'avant d'effectuer différents travaux dans le monde de l'informatique, j'ai eu l'opportunité de découvrir le monde du travail en travaillant deux mois dans le domaine agricole. Ces deux mois m'ont permis d'observer ce qu'était le monde du travail ainsi que considérer ce qu'était le véritable travail d'équipe.
 Par la suite grâce à mon parcours universitaire ainsi que mon bagage technique j'ai eu l'opportunité d'effectuer mon stage de deuxième année au sein du Groupe Legrand avant d'y effectuer un "job d'été" puis une alternance pour ma troisième et dernière année de BUT informatique.
@@ -50,7 +50,7 @@ Mes compétences s'étendent bien au-delà du développement d'application. Je s
 
 Il me semble important aussi d'indiquer que je continue à développer mes compétences pour rester à jour avec les dernières technologies et méthodologies de développement.
 
-# Les projets auxquels j’ai pris part 💻
+💻 # Les projets auxquels j’ai pris part 
 
 Durant ces trois années d'études, j'ai pu mener une importante diversité de projet aussi nommé SAE (situation d'apprentissage et d'évaluation). Ces derniers m'ont permis de mettre en exergue mes compétences que j'ai pu citer plus haut.
 
