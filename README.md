@@ -3,7 +3,7 @@
 1. [À propos de moi](#a-propos-de-moi)
 2. [Mon parcours professionnel](#mon-parcours-professionnel)
 3. [Mes compétences](#mes-compétences)
-4. [Les projets auxquels j’ai pris part](#les-projets-auxquels-jai-pris-part)
+4. [Les projets auxquels j’ai pris part](#les-projets-auxquels-jai-pris-part-💻)
 6. [Fiches SAE](#fiches-saes)
 7. [Me contacter](#me-contacter)
 
@@ -50,7 +50,7 @@ Mes compétences s'étendent bien au-delà du développement d'application. Je s
 
 Il me semble important aussi d'indiquer que je continue à développer mes compétences pour rester à jour avec les dernières technologies et méthodologies de développement.
 
-💻 # Les projets auxquels j’ai pris part 
+# Les projets auxquels j’ai pris part 💻
 
 Durant ces trois années d'études, j'ai pu mener une importante diversité de projet aussi nommé SAE (situation d'apprentissage et d'évaluation). Ces derniers m'ont permis de mettre en exergue mes compétences que j'ai pu citer plus haut.
 
